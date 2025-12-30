@@ -3,7 +3,6 @@ import { Card } from "./ui/card";
 import { ReactNode } from "react";
 import { PiLink } from "react-icons/pi";
 import { PiArrowBendDoubleUpRight } from "react-icons/pi";
-import Link from "next/link";
 
 interface ProjectCardProps {
   children: ReactNode;

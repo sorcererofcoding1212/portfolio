@@ -74,7 +74,7 @@ export default function Home() {
         <div className="flex justify-center items-center">
           <div className="lg:flex lg:gap-x-28 mt-8">
             <ProjectCard
-              liveLink="https://payzap-app.onrender.com/"
+              liveLink="https://payzap.manvir.site"
               repoLink="https://github.com/sorcererofcoding1212/payzap"
               title="Payzap"
               theme="payzap"
@@ -88,7 +88,7 @@ export default function Home() {
               />
             </ProjectCard>
             <ProjectCard
-              liveLink="https://youfit-frontend.netlify.app/"
+              liveLink="https://youfit.manvir.site"
               repoLink="https://github.com/sorcererofcoding1212/youfit"
               title="Youfit"
               theme="youfit"

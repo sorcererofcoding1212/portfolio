@@ -22,7 +22,7 @@ export const Navbar = () => {
           <SiGmail className="text-xl lg:text-2xl lg:cursor-pointer opacity-70" />
         </a>
         <a
-          href="https://linkedin.com/in/manvir-singh-453931261"
+          href="https://linkedin.com/in/manvir-taneja"
           target="_blank"
           rel="noopener noreferrer"
         >
